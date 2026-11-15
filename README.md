@@ -1,5 +1,7 @@
 # bestie
 
+<img width="1097" height="686" alt="Screenshot 2026-11-15 210056" src="https://github.com/user-attachments/assets/a35cbe6c-c627-4adf-af63-057d9af6a047" />
+
 Asisten desktop Windows yang hidup di tepi layar: jam kecil bergaya notch yang "ditarik" keluar saat disentuh kursor, lalu membuka panel berisi alat-alat harian. Ringan, tanpa akun, semua data tersimpan lokal.
 
 ![versi](https://img.shields.io/badge/versi-1.1.0-22d3ee) ![platform](https://img.shields.io/badge/Windows-10%20%7C%2011-8b5cf6) ![.NET](https://img.shields.io/badge/.NET-8-512bd4) ![lisensi](https://img.shields.io/badge/lisensi-MIT-green)
